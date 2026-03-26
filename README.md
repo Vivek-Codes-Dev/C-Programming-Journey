@@ -1,12 +1,13 @@
 # C Programming Journey 🚀
+"Documenting my daily progress in mastering C and level-up problem solving."
 
-Welcome to my repository for mastering C! I am a CSE student at GITAM, focusing on logic building for future roles at companies like Google.
+## 📚 What I've Learned So Far:
+* **Basic Syntax:** Input/Output using `printf` and `scanf`.
+* **Operator Precedence:** Understanding how C evaluates complex math step-by-step.
+* **Conditional Logic:** * `if-else` statements for decision making.
+    * `else-if ladders` for handling multiple conditions (e.g., Driving Eligibility).
+    * `Ternary Operators (? :)` for writing concise code.
+* **Logical Operators:** Using `||` (OR) to validate multiple conditions at once (e.g., Student Result System).
 
-### 📁 Programs Included:
-* **Problem 1:** Basic Area calculations.
-* **Problem 2:** Practice math logic.
-* **Problem 3:** Temperature conversion (Celsius to Fahrenheit).
-### 🛠️ Tech Stack:
-* Language: C
-* Compiler: GCC / Mobile C Compiler
-
+## 🛠️ Current Focus:
+Mastering control flow and preparing for more complex problem-solving.
