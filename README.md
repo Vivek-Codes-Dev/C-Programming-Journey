@@ -1,32 +1,37 @@
 # C Programming Journey 🚀
 
-This repository documents my daily progress in mastering the C programming language. My focus is on building a strong foundation in logic and problem-solving to prepare for high-level software engineering roles.
+"Documenting my daily C programming practice. This repository tracks my evolution from basic syntax to complex algorithms. Focus: Efficient logic, clean code, and interview-level problem solving."
 
-## 🛠️ Concepts Mastered So Far
+## 📌 Latest Updates: April 2026
+I have recently mastered **Digit Manipulation** and **Advanced Loop Logic**. I am now comfortable extracting data from numbers and using conditional logic to verify mathematical properties.
 
-### 1. Conditional Logic & Decision Making
-* **If-Else Ladders**: Implemented multi-stage decision logic for scenarios like driving license eligibility and student grading.
-* **Logical Operators**: Mastered the use of `&&`, `||`, and `!` for complex conditions.
-* **Real-world Applications**: Built a tax calculator based on income slabs and a leap year checker.
+### ✅ New Skill Milestones:
+* **Digit Extraction**: Mastered the use of `% 10` and `/ 10` to peel apart numbers.
+* **Mathematical Logic**: Successfully implemented algorithms for calculating the sum and product of digits simultaneously.
+* **Palindrome Verification**: Learned to reverse integers and compare them against original values using temporary storage.
 
-### 2. Iteration & Loops (The Power of Automation)
-* **`for` loops**: Used for precise repetitions like generating multiplication tables and calculating factorials.
-* **`while` & `do-while` loops**: Implemented to handle various entry/exit condition scenarios, such as summing natural numbers.
-* **Loop Control**: Integrated `break` and `continue` statements for efficient code execution.
+---
 
-### 3. Algorithmic Problem Solving
-* **Prime Number Checker**: Developed logic to test primality using loops and flag variables.
-* **Reverse Iteration**: Created programs to process data in reverse order, such as reverse multiplication tables.
-* **Mathematical Modeling**: Translated mathematical formulas like factorials into executable code.
+## 📂 Project Structure
 
-## 📂 Repository Structure
-* Files ending in `.c` represent independent logic challenges.
-* Each file is optimized for readability and efficient logic.
+### 🔢 Digit & Number Logic
+* `Reverse the number..c`: Reverses an integer and checks if it is a Palindrome.
+* `product and sum of a number..c`: Calculates both the sum and product of digits in a single pass.
+* `check_prime_number.c`: Advanced logic to determine if a number is prime.
 
-## 📈 Roadmap
-* [x] Basics & Operators
-* [x] Conditional Statements
-* [x] Loops & Iteration
-* [ ] **Next Up: Functions & Recursion**
-* [ ] Arrays & String Manipulation
-* [ ] Pointers & Memory Management
+### 🔁 Loop Masterclass
+* `n factorial.c`: Calculating factorials using iterative loops.
+* `multiplication table.c`: Generating tables with user-defined inputs.
+* `Multiplication table in reverse order.c`: Logic for descending iteration.
+* `sum of first n natural numbers .c`: Basic accumulator pattern.
+
+### ⚖️ Conditionals & Basics
+* `driving_licence_ladder.c`: Practice with nested if-else structures.
+* `student_result_using_conditional_statements.c`: Grading logic based on multiple conditions.
+* `ternary_operator_age.c`: Clean code practice using shorthand operators.
+
+## 📈 Future Goals
+- [ ] Master Nested Loops for complex pattern printing.
+- [ ] Begin exploring Arrays and String manipulation.
+- [ ] Solve 50+ interview-level logic problems.
+- [ ] 
