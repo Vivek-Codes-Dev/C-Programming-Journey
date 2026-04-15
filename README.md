@@ -1,37 +1,39 @@
-# C Programming Journey 🚀
+# C Programming: From Logic to Algorithms 💻
 
-"Documenting my daily C programming practice. This repository tracks my evolution from basic syntax to complex algorithms. Focus: Efficient logic, clean code, and interview-level problem solving."
+"A dedicated journey through C programming, documenting my progress from basic control flow to complex algorithmic problem-solving."
 
-## 📌 Latest Updates: April 2026
-I have recently mastered **Digit Manipulation** and **Advanced Loop Logic**. I am now comfortable extracting data from numbers and using conditional logic to verify mathematical properties.
+## 🚀 Recent Milestones: Advanced Logic
+I am currently focusing on **Iterative Logic** and **User Interaction**. My latest work involves game development basics and coordinate-based nested loops.
 
-### ✅ New Skill Milestones:
-* **Digit Extraction**: Mastered the use of `% 10` and `/ 10` to peel apart numbers.
-* **Mathematical Logic**: Successfully implemented algorithms for calculating the sum and product of digits simultaneously.
-* **Palindrome Verification**: Learned to reverse integers and compare them against original values using temporary storage.
+### 🕹️ Featured Project: Guess The Number
+* **File**: `Guess the number.c`
+* **Logic**: Uses `srand()` for randomness and a `do-while` loop for the game engine.
+* **Challenge**: Implemented a 5-guess limit with "Higher/Lower" feedback.
+
+### 🧩 Pattern Printing & Nested Loops
+* **Floyd’s Triangle**: Sequential number patterns using nested `for` loops.
+* **Reverse Iteration**: Creating patterns that count downwards based on row index.
+
+### 🔢 Number Theory Algorithms
+* **Palindrome Checker**: Reversing integers without using strings.
+* **Optimization**: Calculating Sum and Product of digits in a single loop for $O(n)$ efficiency.
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Roadmap
 
-### 🔢 Digit & Number Logic
-* `Reverse the number..c`: Reverses an integer and checks if it is a Palindrome.
-* `product and sum of a number..c`: Calculates both the sum and product of digits in a single pass.
-* `check_prime_number.c`: Advanced logic to determine if a number is prime.
+| Category | Key Files |
+| :--- | :--- |
+| **Games** | `Guess the number.c` |
+| **Patterns** | `Problem (1).c`, `problem .c` |
+| **Math** | `Reverse the number..c`, `product and sum..c`, `check_prime_number.c` |
+| **Conditionals** | `leap_year_checker.c`, `driving_licence_ladder.c` |
 
-### 🔁 Loop Masterclass
-* `n factorial.c`: Calculating factorials using iterative loops.
-* `multiplication table.c`: Generating tables with user-defined inputs.
-* `Multiplication table in reverse order.c`: Logic for descending iteration.
-* `sum of first n natural numbers .c`: Basic accumulator pattern.
+---
 
-### ⚖️ Conditionals & Basics
-* `driving_licence_ladder.c`: Practice with nested if-else structures.
-* `student_result_using_conditional_statements.c`: Grading logic based on multiple conditions.
-* `ternary_operator_age.c`: Clean code practice using shorthand operators.
+## 🛠️ Environment
+- **Compiler**: GCC
+- **Mobile Workflow**: MGit + Terminal
+- **Version Control**: Git
 
-## 📈 Future Goals
-- [ ] Master Nested Loops for complex pattern printing.
-- [ ] Begin exploring Arrays and String manipulation.
-- [ ] Solve 50+ interview-level logic problems.
-- [ ] 
+"The goal isn't just to code, but to build efficient logic."
