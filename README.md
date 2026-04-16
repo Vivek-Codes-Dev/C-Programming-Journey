@@ -1,39 +1,46 @@
-# C Programming: From Logic to Algorithms 💻
+# C Programming Journey: The Complete Log 🚀
 
-"A dedicated journey through C programming, documenting my progress from basic control flow to complex algorithmic problem-solving."
+"A comprehensive collection of my C programming progress, tracking my growth from basic syntax to advanced algorithms and modular functions."
 
-## 🚀 Recent Milestones: Advanced Logic
-I am currently focusing on **Iterative Logic** and **User Interaction**. My latest work involves game development basics and coordinate-based nested loops.
+## 🆕 Latest Milestone: Functional Programming (April 2026)
+I have recently expanded my skills into **Modular Programming**. Instead of writing everything in `main()`, I am now learning to organize logic into reusable blocks.
 
-### 🕹️ Featured Project: Guess The Number
-* **File**: `Guess the number.c`
-* **Logic**: Uses `srand()` for randomness and a `do-while` loop for the game engine.
-* **Challenge**: Implemented a 5-guess limit with "Higher/Lower" feedback.
-
-### 🧩 Pattern Printing & Nested Loops
-* **Floyd’s Triangle**: Sequential number patterns using nested `for` loops.
-* **Reverse Iteration**: Creating patterns that count downwards based on row index.
-
-### 🔢 Number Theory Algorithms
-* **Palindrome Checker**: Reversing integers without using strings.
-* **Optimization**: Calculating Sum and Product of digits in a single loop for $O(n)$ efficiency.
+### ✅ New Skills Unlocked:
+* **Function Architecture**: Implementing the Declaration, Definition, and Execution cycle.
+* **Algorithmic Logic**: Mastered digit extraction, number reversal, and palindrome verification.
+* **Game Development**: Built a functional "Guess the Number" game with random generation and user-input handling.
 
 ---
 
-## 📂 Repository Roadmap
+## 📂 Repository Contents
 
-| Category | Key Files |
-| :--- | :--- |
-| **Games** | `Guess the number.c` |
-| **Patterns** | `Problem (1).c`, `problem .c` |
-| **Math** | `Reverse the number..c`, `product and sum..c`, `check_prime_number.c` |
-| **Conditionals** | `leap_year_checker.c`, `driving_licence_ladder.c` |
+### 🛠️ Functions & Structure
+* `function.c`: Basic implementation of custom void functions for structured greetings.
+
+### 🕹️ Logic & Interactive Games
+* `Guess the number.c`: Game engine featuring `do-while` loops and `srand()` for random numbers.
+* `Reverse the number..c`: Number theory practice to check for Palindromes.
+* `product and sum of a number..c`: Optimized logic for multi-variable calculation in a single loop.
+
+### 🔁 Nested Loops & Patterns
+* `Problem (1).c`: Floyd’s Triangle using global counters and nested `for` loops.
+* `problem .c`: Reverse row-based iteration and pattern printing.
+* `multiplication table.c`: Standard and reverse order multiplication tables.
+
+### 🔢 Core Logic & Conditionals
+* `check_prime_number.c`: Advanced loop-based prime verification.
+* `n factorial.c`: Iterative calculation of factorials.
+* `driving_licence_ladder.c`: Practice with nested `if-else` and decision trees.
+* `sum of first n natural numbers .c`: Introduction to the accumulator pattern.
 
 ---
 
-## 🛠️ Environment
-- **Compiler**: GCC
-- **Mobile Workflow**: MGit + Terminal
-- **Version Control**: Git
+## 🛠️ Tech Stack & Tools
+- **Language**: C (GCC)
+- **Editor**: Mobile Code Editor
+- **Version Control**: MGit / Git
+- **Practice Focus**: Logic building, code organization, and optimization.
 
-"The goal isn't just to code, but to build efficient logic."
+---
+
+"I am a student learner building a foundation in software engineering, one commit at a time."
